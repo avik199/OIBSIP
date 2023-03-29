@@ -1,4 +1,5 @@
 # Basic Calculator
-<img width="952" alt="calculator" src="https://user-images.githubusercontent.com/125206095/225334064-a83f409d-9de1-463d-a0a8-a204ab4e275f.png">
+<img width="960" alt="calculator" src="https://user-images.githubusercontent.com/125206095/228632179-3b64208a-7ba8-41a3-ab41-69cd63e3952d.png">
+
 
 # Website Link--> https://calculator.aviksarkar2.repl.co/
