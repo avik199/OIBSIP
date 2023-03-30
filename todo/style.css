@@ -1,0 +1,79 @@
+.container {
+    width: 50%;
+    margin: 0 auto;
+    padding-right: 2rem;
+    padding-left: 0.2rem;
+    padding-bottom: 2rem;
+    text-align: center;
+    background-color:aliceblue;
+    
+  }
+  body{
+    background-image: linear-gradient(to right,rgba(0, 225, 255, 0.441),rgba(3, 77, 248, 0.54));
+
+  }
+  h1 {
+    font-size: 2rem;
+    text-align: center;
+  }
+  
+  form {
+    margin-top: 20px;
+  }
+  
+  input[type="text"] {
+    width: 60%;
+    padding: 1rem 2rem;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  button {
+    width: 20%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 0.5rem 0.5rem;
+    margin: 8px 0;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+ 
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  .todoItem {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 3px solid #ddd;
+    padding:0.5rem 1.5rem;
+    margin-bottom: 0.5rem;
+    border-radius: 4px;
+    word-break:break-all;
+    
+  }
+  
+  .todoItem span {
+    flex: 1;
+    margin-right: 2rem;
+    margin-left: 2rem;
+  }
+  
+  .todoItem button {
+    background-color: #f44336;
+    color: white;
+    padding: 1rem 2rem;
+    border:rgb(21, 0, 255);
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .todoItem button:hover {
+    background-color: #d32f2f;
+  }
+  
